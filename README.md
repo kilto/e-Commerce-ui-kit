@@ -1,2 +1,7 @@
-# e-Commerce-ui-kit
-e-Commerce ui kit for flutter 
+# e-Commerce
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
