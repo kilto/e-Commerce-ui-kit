@@ -45,4 +45,41 @@ Perfect for designers, developers, and entrepreneurs looking to bring their e-co
 6. How to build project 
 7. Support
 
-Preview:[https://www.youtube.com/watch?v=K2PlC3NtFto](https://www.youtube.com/watch?v=K2PlC3NtFto)
+**Preview:**\[https://www.youtube.com/watch?v=K2PlC3NtFto](https://www.youtube.com/watch?v=K2PlC3NtFto)
+
+**Screenshot**\
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/001.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/002.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/003.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/004.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/005.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/006.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/007.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/008.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/009.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/010.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/011.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/012.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/013.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/014.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/015.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/016.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/017.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/018.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/019.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/020.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/021.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/022.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/023.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/024.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/025.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/026.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/027.jpg" width="200">
+<img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/028.jpg" width="200">
+
+
+
+
+
+
+
