@@ -45,7 +45,7 @@ Perfect for designers, developers, and entrepreneurs looking to bring their e-co
 6. How to build project 
 7. Support
 
-**Preview:**\[https://www.youtube.com/watch?v=K2PlC3NtFto](https://www.youtube.com/watch?v=K2PlC3NtFto)
+**Preview:**\(https://www.youtube.com/watch?v=K2PlC3NtFto)
 
 **Screenshot**\
 <img src="https://github.com/kilto/e-Commerce-ui-kit/blob/main/screenshot/001.jpg" width="200">
